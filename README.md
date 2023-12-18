@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![image](https://github.com/adebungaa/UASPemrogramanMobile_211402008/assets/89067579/1dab534a-26ba-4202-bf27-17c74f223b3b)
+![Uploading image.png…]()
+
 
 ## Getting Started
 
